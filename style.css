@@ -1,0 +1,21 @@
+h1 {
+    color: blue ;
+    text-decoration: underline ;
+}
+
+button {
+    margin-top: 60px;
+    margin-right:  120px;;
+    padding: 20px;
+    color: aquamarine;
+}
+
+.foto1 {
+    width: 500px;
+    height: 500px;
+}
+
+body{
+    background: url(foto\ 1.jpg);
+    background-size: cover; 
+}
