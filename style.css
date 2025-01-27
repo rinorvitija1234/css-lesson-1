@@ -13,9 +13,20 @@ button {
 .foto1 {
     width: 500px;
     height: 500px;
+    border: 2px dotted red ;
+    padding: 180px;
+    padding-top: 50px;
 }
 
 body{
     background: url(foto\ 1.jpg);
     background-size: cover; 
 }
+
+.foto\ 1.jpg {
+    width: 500px;
+    height: 500px;
+    border: 2px dotted red ;
+    padding: 180px;
+    padding-top: 50px;
+}|
